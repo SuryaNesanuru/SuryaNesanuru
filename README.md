@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hello👋, I'm Surya Nesanuru</h1>
+<h1 align="center">Hi 👋, I'm Surya Nesanuru</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanesanuru&label=Profile%20views&color=0e75b6&style=flat" alt="suryanesanuru" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Hp](https://www.hp.com/in-en/home.html)
 
-- 🌱 I’m currently learning **Beckend - NodeJs, Express Js, MongoDB.**
+- 🌱 I’m currently learning **Beckend - NodeJs, Express Js, MongoDBoDB.**
 
 - 👯 My Previous working company [Caterpillar](https://parts.cat.com/en/catcorp)
 
@@ -19,11 +19,17 @@
 
 - 👨‍💻 All of my projects are available at [https://3d-portfolio-surya-nesanuru.netlify.app/](https://3d-portfolio-surya-nesanuru.netlify.app/)
 
+- 📝 I regularly write articles on [https://delightful-lamington-d90b58.netlify.app/](https://delightful-lamington-d90b58.netlify.app/)
+
 - 💬 Ask me about **Front end tech stacks**
 
 - 📫 How to reach me **suryavaraprasad33@gmail.com**
 
 - ⚡ Fun fact **Cool Coder with Rash mindset**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +51,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanesanuru&show_icons=true&locale=en" alt="suryanesanuru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanesanuru&" alt="suryanesanuru" /></p>
+
 
