@@ -15,7 +15,7 @@
 
 - 🤝 The first project [bed bath and beyond](https://www.bedbathandbeyond.com/)
 - Started career in TCS working on projects [CRH AMericas materirs][https://www.crhamericas.com/] and [https://www.mitre10.co.nz]
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-surya-nesanuru.netlify.app/](https://3d-portfolio-surya-nesanuru.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website2025.netlify.app/]
 
 - 📝 I regularly write articles on [https://delightful-lamington-d90b58.netlify.app/](https://delightful-lamington-d90b58.netlify.app/)
 
