@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://delightful-lamington-d90b58.netlify.app/](https://delightful-lamington-d90b58.netlify.app/)
 
-- 💬 Ask me about **Front end tech stacks**
+- 💬 Ask me about **Front end tech stacks*
 
 - 📫 How to reach me **suryavaraprasad33@gmail.com**
 
