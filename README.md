@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hp](https://www.hp.com/in-en/home.html)
 
-- 🌱 I’m currently learning **Beckend - NodeJs, Express Js, MongoDBoDB.**
+- 🌱 I’m currently learning **Beckend - NodeJs, Express Js, MongoDB.**
 
 - 👯 My Previous working company [Caterpillar](https://parts.cat.com/en/catcorp)
 
